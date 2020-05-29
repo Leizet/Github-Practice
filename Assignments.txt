@@ -1,0 +1,6 @@
+For training period
+  Tutorials
+    Watch tutorials given
+    Follow and try the tutorials
+    Make Github Account
+  
