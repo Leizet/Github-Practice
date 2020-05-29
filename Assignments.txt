@@ -4,3 +4,7 @@ For training period
     Follow and try the tutorials
     Make Github Account
   
+Exercises
+  Create 3 different login page into their respective homepage
+  Create 3 different webpage that is responsive
+  Create 1 website of any topic of your choice
